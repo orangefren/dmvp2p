@@ -33,6 +33,23 @@
         "website": "https://www.monerotalk.live/",
         "address": "47e6GvjL4in5Zy5vVHMb9PQtGXQAcFvWSCQn2fuwDYZoZRk3oFjefr51WBNDGG9EjF1YDavg7pwGDFSAVWC5K42CBcLLv5U",
         "description": "Broadcasts weekly conversations w/ topical guests to understand what the Monero cryptocurrency is today & what it hopes to become"
+      },
+
+      {
+        "name": "OrangeFren.com",
+        "github": "orangefren",
+        "x": "OrangeFren",
+        "website": "https://OrangeFren.com",
+        "address": "868i3uV9Q8NjigjCnJ6P3L6oMizRYniGuAiVXYVYsBQE9g4gqVWs6qVEDC6SZR3ZiWgC787A9iTcdeFkUdTu8n7q2e7BN9m",
+        "description": "OrangeFren.com compares instant exchanges, atomic swaps, P2P exchanges, prepaid cards and OTC brokers to find you the one with the best exchange rate."
+      },
+      {
+        "name": "kycnot.me",
+        "github": "pluja",
+        "x": "kycnot",
+        "website": "https://kycnot.me",
+        "address": "88V2Xi2mvcu3NdnHkVeZGyPtACg2w3iXZdUMJugUiPvFQHv5mVkih3o43ceVGz6cVs9uTBMt4MRMVW2xFgfGdh8DTCQ7vtp",
+        "description": "Find the best NON-KYC exchanges and services to use and spend your crypto anonymously."
       }
       
     ]
